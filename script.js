@@ -1,4 +1,4 @@
-    const searchInput = document.getElementById('search-input');
+const searchInput = document.getElementById('search-input');
     const searchButton = document.getElementById('search-button');
     const pokemonName = document.getElementById('pokemon-name');
     const pokemonId = document.getElementById('pokemon-id');
